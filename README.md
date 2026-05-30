@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-# 🏥 Détection et Classification du Cancer de la Peau par Deep Learning
+<div>
 
 ## 📌 Présentation
 Application intelligente basée sur le Deep Learning permettant la détection et la classification automatique des lésions cutanées à partir d’images dermatologiques.
