@@ -68,17 +68,19 @@ Frontend (React) → Backend (Node.js / Express) → Modèle IA (TensorFlow) →
 
 ## 🚀 Installation
 
-``bash
+```bash
 git clone https://github.com/ton-compte/PFE_Master2_SID.git
 cd PFE_Master2_SID
+```
 
-
-``Backend
+```Backend
 cd app_web/backend
 npm install
 npm start
+```
 
-``Frontend
+```Frontend
 cd app_web/frontend
 npm install
 npm run dev
+```
